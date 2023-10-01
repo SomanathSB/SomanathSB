@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Somanath Biswal</h1>
 <h3 align="center">A passionate frontend developer from India.....</h3>
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
-
 - 🔭 I’m currently working on [Revolutionizing Public Transportation in Himachal Pradesh](https://github.com/ITER-SIH/Team-30)
 
 - 🌱 I’m currently learning **Flutter, Dart, Devops**
@@ -34,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SomanathSB&show_icons=true&locale=en" alt="SomanathSB" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanathSB&" alt="SomanathSB" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
