@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SomanathSB&show_icons=true&locale=en" alt="SomanathSB" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanathSB&" alt="SomanathSB" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
+<p align="left" style="backgroundcolor:black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
