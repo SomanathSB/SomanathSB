@@ -1,6 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" height="100px">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" height="180px">
 <h1 align="center">Hi 👋, I'm Somanath Biswal</h1>
 <h3 align="center">A passionate frontend developer from India.....</h3>
+<br>
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - 🔭 I’m currently working on [Revolutionizing Public Transportation in Himachal Pradesh](https://github.com/ITER-SIH/Team-30)
 
