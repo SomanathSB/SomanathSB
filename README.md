@@ -1,9 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" height="60px">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" height="100px">
 <h1 align="center">Hi 👋, I'm Somanath Biswal</h1>
 <h3 align="center">A passionate frontend developer from India.....</h3>
-<img align="left" alt="coading" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SomanathSB&label=Profile%20views&color=0e75b6&style=flat" alt="SomanathSB" /> </p>
-
+<img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
 
 - 🔭 I’m currently working on [Revolutionizing Public Transportation in Himachal Pradesh](https://github.com/ITER-SIH/Team-30)
@@ -17,7 +15,7 @@
 - 📫 How to reach me **somanathbiswal03@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZulJu-sKC_MXSUEREkjNY8lFFJs6yfkX?usp=sharing](https://drive.google.com/drive/folders/1ZulJu-sKC_MXSUEREkjNY8lFFJs6yfkX?usp=sharing)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SomanathSB&label=Profile%20views&color=0e75b6&style=flat" alt="SomanathSB" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@slytherin__03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@slytherin__03" height="30" width="40" /></a>
