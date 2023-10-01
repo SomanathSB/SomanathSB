@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" height="220px">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" height="100%">
 <h1 align="center">Hi 👋, I'm Somanath Biswal</h1>
 <h3 align="center">A passionate frontend developer from India.....</h3>
 <br>
@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SomanathSB&show_icons=true&locale=en" alt="SomanathSB" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanathSB&" alt="SomanathSB" /></p>
-<p align="left" style="backgroundcolor:black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomanathSB" alt="SomanathSB" /></a> </p>
